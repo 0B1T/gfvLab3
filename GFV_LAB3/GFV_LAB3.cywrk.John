@@ -186,7 +186,17 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs />
+<OpenDocs>
+<name v=".\Scale.cydsn\main.c" />
+<name v=".\Scale.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="947, 612" SelectedTabbedMdiWindow="5b359e46-3978-4a37-8c12-fe2d50b04a9f"><DocumentWindow Key="D:\git\gfvLab3\GFV_LAB3\Scale.cydsn\main.c" Guid="5b359e46-3978-4a37-8c12-fe2d50b04a9f" /><DocumentWindow Key="D:\git\gfvLab3\GFV_LAB3\Scale.cydsn\TopDesign\TopDesign.cysch" Guid="5ccec50c-c002-43bb-8253-f03d8776f8a8" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
